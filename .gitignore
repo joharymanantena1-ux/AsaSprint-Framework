@@ -1,0 +1,11 @@
+﻿**/*.class
+**/temp/
+**/tempsrc/
+**/WEB-INF/classes/
+.idea/
+*.iml
+.DS_Store
+Thumbs.db
+*.log
+*.war
+!lib/*.jar
